@@ -1,0 +1,12 @@
+.table-course-container{
+    width: 95%;
+    margin:0 auto;
+    min-height: 25px;
+    border: 1px solid rgb(3, 49, 45);
+    margin-top: 10px;
+    text-align: left;
+    text-indent: 2%;
+    font-weight: 700;
+    color:black;
+
+}
